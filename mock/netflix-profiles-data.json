@@ -1,0 +1,32 @@
+{
+    "profiles": [
+        {
+            "Key": "2044a9c9-84b4-46d0-9bce-d9addb63a0cc",
+            "Name": "Diego",
+            "Language": "PT-BR",
+            "AutoInitNextEpisode": false,
+            "AutoPlayPreview": true
+        },
+        {
+            "Key": "ac844b01-d70b-401f-bf10-afcbe25343da",
+            "Name": "Alberto",
+            "Language": "EN-US",
+            "AutoInitNextEpisode": true,
+            "AutoPlayPreview": false
+        },
+        {
+            "Key": "b0031421-0549-4198-b4ae-8c6b57b21f5c",
+            "Name": "Maria",
+            "Language": "CAN",
+            "AutoInitNextEpisode": true,
+            "AutoPlayPreview": false
+        },
+        {
+            "Key": "d3a002df-f74c-424f-b388-a542b33e4581",
+            "Name": "João",
+            "Language": "ES",
+            "AutoInitNextEpisode": true,
+            "AutoPlayPreview": false
+        }
+    ]
+}

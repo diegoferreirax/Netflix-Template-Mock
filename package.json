@@ -1,0 +1,16 @@
+{
+  "name": "netflix-template-mock",
+  "version": "1.0.0",
+  "description": "Mock netflix template",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"No test specified\"",
+    "start": "node server.js"
+  },
+  "author": "Diego Ferreira Xavier",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "json-server": "^0.14.0"
+  }
+}
